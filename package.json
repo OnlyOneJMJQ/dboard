@@ -1,0 +1,17 @@
+{
+  "name": "dboard",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Josh Quintal <@OnlyOneJMJQ>",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/config": "^1.3.45",
+    "@truffle/dashboard": "^0.3.1",
+    "address": "^1.2.1"
+  }
+}
