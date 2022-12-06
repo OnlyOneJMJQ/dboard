@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 async function run(options = {}) {
   const { DashboardServer } = require("@truffle/dashboard");
   const address = require("address");
